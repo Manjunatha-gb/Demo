@@ -1,0 +1,17 @@
+gitbash notes
+
+git
+it's a version controlling system used to track the changes made within an application.
+
+GitHub
+ it's a clod platform that follows git principles for version controlling, helps in storing the projects.
+
+gitbash 
+ it's is command line interface  [CLI]  used to track changes and sync into the global repository.
+
+
+step 1-> initializing the git local repository
+	git init -> used to initialize the git local repository
+
+step 2--> staging the changes 
+	git add filepath -->	the process of selecting the changes that has to be committed is called as staging. 
