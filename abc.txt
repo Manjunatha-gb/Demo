@@ -15,3 +15,14 @@ step 1-> initializing the git local repository
 
 step 2--> staging the changes 
 	git add filepath -->	the process of selecting the changes that has to be committed is called as staging. 
+step 3-> commit staged changes
+	-> git commit -m "message"   -> the process of finalizing  and saving the changes  to the local repository is called committing. 
+
+step 4-> create a branch. 
+	git checkout -b branchname 
+
+step 5 -> switch to branch.
+	git checkout branchname
+
+step 6 -> push to global repository.
+	git push origin branchname
